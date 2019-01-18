@@ -3,7 +3,9 @@ program HelloWorld;
 uses crt;
 
 BEGIN
+        clrscr;
         writeln('Hello world!');
+        writeln(':)');
         readln;
 END.
 
