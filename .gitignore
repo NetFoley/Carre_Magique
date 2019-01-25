@@ -2,3 +2,6 @@
 *.exe
 *.o
 *.bak
+*.err
+*.out
+Helloworld.pas
