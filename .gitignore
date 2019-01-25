@@ -1,3 +1,4 @@
 #Les fichiers de configurations à ignorer
 *.exe
 *.o
+*.bak
